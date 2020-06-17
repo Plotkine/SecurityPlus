@@ -1,1 +1,1 @@
-(partial) notes I took while watching Pr. Messer videos about ComptIA Security+
+(partial) notes I took while watching Pr. Messer videos on ComptIA Security+
